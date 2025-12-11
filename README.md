@@ -5,7 +5,6 @@ SecureHash, kullanıcıların metinleri ve şifreleri çeşitli kriptografik alg
 Tüm işlemler **%100 İstemci Taraflı (Client-Side)** gerçekleşir. Girdiğiniz şifreler asla bir sunucuya gönderilmez veya kaydedilmez.
 
  ![Proje Ekran Görüntüsü](Screenshot%202025-12-11%20154446.png)
-*(Buraya daha sonra projenin ekran görüntüsünü ekleyebilirsiniz)*
 
 ## ✨ Özellikler
 
