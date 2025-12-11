@@ -69,4 +69,4 @@ Bu araç **eğitim ve test amaçlı** geliştirilmiştir.
 
 ---
 
-💻 **Geliştirici:** [Senin Adın/Kullanıcı Adın]
+💻 **Geliştirici:** [Metehan/metehanerkan]
